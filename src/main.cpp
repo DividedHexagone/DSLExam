@@ -34,7 +34,7 @@ void update_channel()
 {
   for(uint8_t i = 0; i < 4; ++i)
   {
-    digitalWrite(2+i, Channels[LastChannel][i]);
+    
   }
 }
 
