@@ -34,7 +34,7 @@ void update_channel()
 {
   for(uint8_t i = 0; i < 4; ++i)
   {
-    
+    //Exam A - Solve the problem
   }
 }
 
