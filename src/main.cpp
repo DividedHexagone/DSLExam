@@ -63,7 +63,7 @@ void setup()
 
 void loop()
 {
-  uint8_t channel = map(analogRead(A0), 0, 1024, 0, 8);
+  //Exam B, solve the problem
 
   if(channel != LastChannel)
   {
